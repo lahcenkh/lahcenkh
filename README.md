@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Lahcen Khouchane
 
-<!--
-**lahcenkh/lahcenkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Network Specialist & Network Automation Engineer
 
-Here are some ideas to get you started:
+I'm a passionate network professional with hands-on experience in configuring, managing, and automating network infrastructures. I specialize in working with a variety of networking devices including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cisco**
+- **Huawei**
+- **Nokia**
+
+My work bridges traditional networking with modern automation practices to deliver scalable and efficient network solutions.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, Bash, JavaScript, PowerShell, HTML, CSS
+- **Tools & Platforms:** Docker, Linux, Git
+
+
+
