@@ -2,11 +2,7 @@
 
 ## 💼 Network Specialist & Network Automation Engineer
 
-I'm a passionate network professional with hands-on experience in configuring, managing, and automating network infrastructures. I specialize in working with a variety of networking devices including:
-
-- **Cisco**
-- **Huawei**
-- **Nokia**
+I'm a passionate network professional with hands-on experience in configuring, managing, and automating network infrastructures. I specialize in working with a variety of networking devices including: CISCO, HUAWEI, NOKIA, ZTE
 
 My work bridges traditional networking with modern automation practices to deliver scalable and efficient network solutions.
 
